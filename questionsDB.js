@@ -1,4 +1,4 @@
-let questions = [
+let questionList = [
   {
     "prompt": "A 49-year-old male presents with recurrent purulent otorrhea and hearing loss. On exam there is retraction of the tympanic membrane with debris and a white mass visible behind the tympanic membrane. What is the most likely diagnosis?",
     "answers": [
