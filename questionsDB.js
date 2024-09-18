@@ -4031,5 +4031,549 @@ let questionList = [
     "rationale": "A T-score of -1.8 indicates osteopenia, not osteoporosis. For osteopenia, the best initial treatment includes calcium and vitamin D supplementation to support bone health and prevent further bone loss. Bisphosphonates are generally reserved for patients with osteoporosis (T-score ≤ -2.5) or higher fracture risk. Selective estrogen receptor modulators and hormone replacement therapy are options for postmenopausal women but are not typically first-line for osteopenia due to their risk profiles.<br><table border=\"1\"><tbody><tr><th>T-score</th><th>Result</th></tr><tr><td>-1.0 or higher</td><td>Normal</td></tr><tr><td>-2.5 to -1.01</td><td>Osteopenia</td></tr><tr><td>less than -2.5</td><td>Osteoporosis</td></tr></tbody></table>",
     "Age Group": "Elderly (65+)",
     "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "When treating patients with emphysema, which blood pressure medication should be avoided?",
+    "answers": [
+      "Calcium channel blockers",
+      "ACE inhibitors",
+      "Diuretics",
+      "Beta blockers"
+    ],
+    "correct": 3,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2818870#:~:text=These%20results%20suggested%20that%20β,AMI%2C%20congestive%20heart%20failure).",
+    "rationale": "Beta blockers have been shown to decrease forced expiratory volume (FEV1), increase airway hyperresponsiveness, and inhibit the bronchodilator response to beta agonists in COPD patients. Also, remember that a person with emphysema has COPD, but a person with COPD may not necessarily have emphysema. Calcium channel blockers, ACE inhibitors, and diuretics are typically safer options for managing hypertension in patients with emphysema.",
+    "Age Group": "Older Adult and Elderly",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "A male in his early 30s, treated with Risperdal (risperidone) for psychotic episodes and increased paranoia, reports that the drug is ineffective. Which of the following medications should be prescribed next?",
+    "answers": [
+      "Clozapine",
+      "Amitriptyline",
+      "Wellbutrin (Bupropion)",
+      "Eskalith (lithium)"
+    ],
+    "correct": 0,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.medicalnewstoday.com/articles/risperdal-schizophrenia#alternative-treatments",
+    "rationale": "When Risperdal (risperidone), an atypical antipsychotic, is ineffective, Clozapine is often considered next for treatment-resistant schizophrenia or psychosis. It is highly effective in patients who do not respond to other antipsychotics but requires regular monitoring due to potential side effects like agranulocytosis. Amitriptyline is a tricyclic antidepressant used for depression and certain pain conditions. Wellbutrin is an antidepressant used for major depressive disorder and smoking cessation. Lithium is primarily used for bipolar disorder.",
+    "Age Group": "Older Adult (26-65)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "A well-developed 14-year-old male with a history of cystic acne returns after trying oral antibiotics for 6 months with no improvement. What is the next preferred treatment option?",
+    "answers": [
+      "Isotretinoin (Accutane)",
+      "Retin-A 0.25% gel",
+      "PO Tetracycline",
+      "Sulfur-based medicated facial washes at bedtime"
+    ],
+    "correct": 0,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.mayoclinic.org/drugs-supplements/isotretinoin-oral-route/description/drg-20068178",
+    "rationale": "For severe cystic acne that does not respond to oral antibiotics, Isotretinoin (Accutane) is the next preferred treatment option. It is a highly effective oral retinoid that reduces sebum production, inflammation, and bacterial growth. However, it requires careful monitoring due to potential serious side effects, including teratogenicity and mood changes. Retin-A 0.25% gel is a topical retinoid used for less severe cases. Tetracycline is another antibiotic, but the patient has already tried antibiotics without success. Sulfur-based facial washes may help with mild acne but are not effective for severe cystic acne.",
+    "Age Group": "Adolescent (12-18)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "The bone density test of your 67-year-old female patient shows severe bone demineralization. Which of the following agents should not be used in treating this condition?",
+    "answers": [
+      "Medroxyprogesterone (Depo-Provera)",
+      "Raloxifene (Evista)",
+      "Calcitonin (Miacalcin)",
+      "Calcium with Vitamin D"
+    ],
+    "correct": 0,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://theros.org.uk/information-and-support/osteoporosis/causes/depo-provera",
+    "rationale": "Medroxyprogesterone (Depo-Provera) is a contraceptive injection. In fact, long-term use of Depo-Provera has been associated with bone density loss. Raloxifene (Evista) is a selective estrogen receptor modulator (SERM) used to prevent and treat osteoporosis in postmenopausal women. Calcitonin (Miacalcin) helps regulate calcium levels. Calcium with Vitamin D is essential for bone health and is commonly recommended to support bone density in patients with osteoporosis.",
+    "Age Group": "Elderly (65+)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "A 50-year-old male presents with a painful, swollen right testicle and dysuria. Examination reveals a tender, swollen scrotum with a positive Prehn’s sign. The patient reports being in a heterosexual monogamous relationship for five years and denies anal intercourse. His nucleic acid amplification test (NAAT) is negative. Which treatment should the nurse practitioner prescribe?",
+    "answers": [
+      "Ceftriaxone 250 mg IM x 1",
+      "Levofloxacin 500 mg PO x 10 days",
+      "Doxycycline 100 mg PO BID x 10 days",
+      "Ceftriaxone 250 mg IM and ofloxacin 300 mg PO BID x 10 days"
+    ],
+    "correct": 1,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.uspharmacist.com/article/antibiotic-therapy-for-epididymitis/#:~:text=The%20mainstay%20of%20treatment%20is%20empirical%20antibiotic%20therapy",
+    "rationale": "The patient’s symptoms suggest acute epididymitis likely due to a non-sexually transmitted pathogen, considering his monogamous relationship, negative NAAT, and no history of anal intercourse. For men over 35 years old or those with low risk for sexually transmitted infections, Levaquin (levofloxacin) or another fluoroquinolone is recommended, as it is effective against typical uropathogens like Escherichia coli. The other medications treat epididymitis caused by chlamydia or gonorrhea.",
+    "Age Group": "Older Adult (26-65)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "Which of the following ADHD drugs is not classified as an amphetamine or stimulant?",
+    "answers": [
+      "Dexmethylphenidate (Focalin XR)",
+      "Amphetamine salts (Adderall)",
+      "Methylphenidate (Ritalin)",
+      "Atomoxetine (Strattera)"
+    ],
+    "correct": 3,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.additudemag.com/adhd-medication-for-adults-and-children/",
+    "rationale": "Atomoxetine (Strattera) is a non-stimulant medication used to treat ADHD. It is a selective norepinephrine reuptake inhibitor (NRI). Dexmethylphenidate, amphetamine salts (Adderall), and methylphenidate (Ritalin) are all stimulant medications commonly used to treat ADHD.",
+    "Age Group": "Older Adult (26-65)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "Which of the following medications, included in the updated Beers Criteria, should be avoided in older adults due to the risk of confusion and cognitive impairment?",
+    "answers": [
+      "Acetaminophen",
+      "Brompheniramine",
+      "Amoxicillin",
+      "Lisinopril"
+    ],
+    "correct": 1,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://my.clevelandclinic.org/health/articles/24946-beers-criteria",
+    "rationale": "Brompheniramine, an antihistamine, is listed in the Beers Criteria as inappropriate for older adults due to its risk of causing confusion, cognitive impairment, and delirium. Anticholinergic medications are particularly harmful in elderly patients because they can worsen mental clarity and increase fall risk. Acetaminophen is generally safe for older adults when used appropriately for pain management. Amoxicillin is a safe antibiotic option for older adults. Lisinopril (d), an ACE inhibitor, is commonly used to manage hypertension and is considered safe in the elderly population when monitored appropriately.",
+    "Age Group": "Elderly (65+)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "Your new patient is a 69-year-old female who's been taking an alpha-blocker to manage her hypertension. Alpha-blockers are included in the Beers Criteria list due to its risk of causing hypotension in older adults. Which of the following medications would be a safer alternative to manage the patient’s hypertension?",
+    "answers": [
+      "Doxazosin",
+      "Hydrochlorothiazide",
+      "Terazosin",
+      "Prazosin"
+    ],
+    "correct": 1,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://my.clevelandclinic.org/health/articles/24946-beers-criteria",
+    "rationale": "Hydrochlorothiazide, a thiazide diuretic, is a safer and commonly used first-line treatment for hypertension in elderly patients. It effectively reduces blood pressure without the significant risk of hypotension associated with alpha-blockers, such as doxazosin, terazosin, and prazosin, which are listed in the Beers Criteria due to their increased risk of orthostatic hypotension and falls in older adults.",
+    "Age Group": "Elderly (65+)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "A 75-year-old female, recently treated for breast cancer, presents with painful crusting lesions over the side of her ribs, and her herpes zoster PCR test is positive. Which of the following should be excluded from her treatment plan?",
+    "answers": [
+      "Acyclovir 5x a day x10 days",
+      "5% Lidocaine topical patch",
+      "Zoster vaccine (Shingrix)",
+      "PO gabapentin TID"
+    ],
+    "correct": 2,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://en.wikipedia.org/wiki/Zoster_vaccine",
+    "rationale": "The Shingrix vaccine, which is used to prevent herpes zoster (shingles), should be excluded from the treatment plan because it is not indicated during an active infection. Vaccination is recommended for prevention, not for treatment of an active herpes zoster outbreak. Acyclovir is an antiviral commonly used to treat herpes zoster. 5% Lidocaine topical patch can help with pain management. Gabapentin is often prescribed to manage postherpetic neuralgia and can be appropriate during a herpes zoster outbreak.",
+    "Age Group": "Elderly (65+)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "Which medication is least likely to cause GI distress for patients with a sensitive stomach?",
+    "answers": [
+      "Sucralfate",
+      "Erythromycin",
+      "Aspirin",
+      "Naproxen"
+    ],
+    "correct": 0,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.ncbi.nlm.nih.gov/books/NBK551527/#:~:text=Sucralfate%20forms%20a%20protective%20coat,forming%20a%20thick%20viscous%20substance.",
+    "rationale": "Sucralfate is a medication used to treat and prevent ulcers by forming a protective barrier over the stomach lining, making it the least likely to cause GI distress. It actually helps protect the stomach and is well-tolerated by patients with sensitive stomachs. Erythromycin is an antibiotic that frequently causes GI side effects, including nausea and diarrhea. Aspirin and naproxen are NSAIDs that can irritate the stomach lining, increasing the risk of gastritis, ulcers, and GI bleeding.",
+    "Age Group": "Older Adult and Elderly",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "The nurse practitioner knows that CYP450 is inhibited by erythromycin. Because of this, the following drugs should be avoided due to potential drug interactions except:",
+    "answers": [
+      "Theophylline",
+      "Diazepam",
+      "Warfarin",
+      "Furosemide"
+    ],
+    "correct": 3,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4435036/#:~:text=furosemide%20is%20only%20glucuronidated",
+    "rationale": "Furosemide, one of the few drugs that are safe to use with a CYP450 inhibitor, is a loop diuretic that is not significantly metabolized by the CYP450 enzyme system, so it does not have a major interaction with erythromycin. Theophylline, diazepam, and warfarin are all metabolized by the CYP450 system, and when combined with erythromycin (a CYP450 inhibitor), their plasma levels can increase, leading to potential toxicity or enhanced effects, making these drugs more likely to have dangerous interactions.",
+    "Age Group": "Older Adult and Elderly",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "An elderly patient recently discharged from the hospital, where she received IV tobramycin, reports recurrent dizzy spells. She describes the sensation as the room spinning, leading to nausea and vomiting, which worsens with sudden head movements. Which of the following medications would be most effective in treating this problem?",
+    "answers": [
+      "Transdermal scopolamine patch",
+      "Dimenhydrinate",
+      "Meclizine",
+      "Duloxetine"
+    ],
+    "correct": 2,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.mayoclinic.org/drugs-supplements/meclizine-oral-route/precautions/drg-20075849?p=1#:~:text=Meclizine%20is%20used%20to%20prevent,nausea%2C%20vomiting%2C%20and%20dizziness.",
+    "rationale": "The patient’s symptoms suggest vertigo, likely related to vestibular toxicity, a known side effect of tobramycin. Meclizine, an antihistamine, is commonly used to treat vertigo by reducing nausea, dizziness, and the sensation of spinning. Transdermal scopolamine patch and Dimenhydrinate are more commonly used for motion sickness and postoperative nausea. Duloxetine is an antidepressant and is not indicated for treating vertigo or dizziness.",
+    "Age Group": "Elderly (65+)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "A 60-year-old male began taking 40 mg of rosuvastatin daily five weeks ago. During a follow-up visit, he reports dark urine, increased fatigue, and minor muscle aches in his legs. After ordering laboratory tests, what should the nurse practitioner advise the patient to do?",
+    "answers": [
+      "Stop taking the medication until the lab results are back",
+      "Take the medications every other day instead of daily",
+      "Continue taking the medication as directed",
+      "Take half the dose (20 mg) daily, until lab results are available"
+    ],
+    "correct": 0,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.mayoclinic.org/diseases-conditions/high-blood-cholesterol/in-depth/statin-side-effects/art-20046013#:~:text=dose%20of%20statins.-,Liver%20damage,to%20try%20a%20different%20statin.",
+    "rationale": "This patient has symptoms that suggest damage to his liver from the statin, so he must stop taking this medication until blood test results come back. The best course of action is to stop the medication immediately and await lab results (e.g., creatine kinase levels, liver function tests) to assess the severity of muscle injury and potential kidney involvement.",
+    "Age Group": "Older Adult (26-65)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "A 25-year-old male reports to occupational health with symptoms of a urinary tract infection. He has been treated for a UTI twice in the past year and currently denies fever, urethral discharge, or flank pain. What is the best plan for this patient?",
+    "answers": [
+      "Urology referral",
+      "Prescribe ofloxacin for two full weeks",
+      "Instruct the patient to urinate every two hours while he is awake",
+      "Advise the patient of his high risk of urosepsis and refer him to the emergency department"
+    ],
+    "correct": 0,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://emedicine.medscape.com/article/231574-overview?form=fpf",
+    "rationale": "Recurrent urinary tract infections (UTIs) in a young male are uncommon and may suggest an underlying anatomical or functional issue, such as prostatitis or another genitourinary abnormality. A urology referral is appropriate for further evaluation and investigation. Prescribing ofloxacin for two weeks may treat the current infection but does not address the need for investigation of the underlying cause. Instructing the patient to urinate every two hours is a general preventive measure. Referring to the emergency department for potential urosepsis is unnecessary, as the patient has no signs of sepsis (e.g., fever, chills, flank pain).",
+    "Age Group": "Adult (19-26)",
+    "Pharmacology?": "FALSE"
+  },
+  {
+    "prompt": "An elderly patient reports having a small, crusty, non-healing ulcer on her lip for years. Which of the following should the nurse practitioner recommend?",
+    "answers": [
+      "Triamcinolone cream (Kenalog)",
+      "Triple antibiotic ointment/Neosporin",
+      "1% hydrocortisone cream",
+      "A dermatology referral"
+    ],
+    "correct": 3,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5614327/",
+    "rationale": "A non-healing ulcer on the lip, especially in an elderly patient, raises concern for skin cancer, such as basal cell carcinoma or squamous cell carcinoma. A dermatology referral is necessary for further evaluation, biopsy, and treatment. Triamcinolone cream (Kenalog) and hydrocortisone cream are topical steroids that would not address a potential malignancy. Triple antibiotic ointment/Neosporin is appropriate for minor skin infections.",
+    "Age Group": "Elderly (65+)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "Which of the following benzodiazepines has the shortest half-life?",
+    "answers": [
+      "Clonazepam (Klonopin)",
+      "Triazolam (Halcion)",
+      "Alprazolam (Xanax)",
+      "Diazepam (Valium)"
+    ],
+    "correct": 1,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.euda.europa.eu/publications/drug-profiles/benzodiazepines_en#:~:text=Different%20benzodiazepines%20vary%20in%20the,lives%20greater%20than%2024%20hours%2C",
+    "rationale": "Triazolam (Halcion) has the shortest half-life among these options, typically 2 to 6 hours, making it effective for short-term use, especially for insomnia.<br><ul><li>Clonazepam (Klonopin) has a longer half-life, approximately 20 to 50 hours.</li><li>Alprazolam (Xanax) has a half-life of 11 to 16 hours.</li><li>Diazepam (Valium) has a much longer half-life, ranging from 20 to 50 hours.</li></ul>",
+    "Age Group": "Older Adult (26-65)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "Postherpetic neuralgia should be treated with which class of drugs?",
+    "answers": [
+      "Tricyclic antidepressants",
+      "Selective serotonin reuptake inhibitors",
+      "Benzodiazepines",
+      "Atypical antidepressants"
+    ],
+    "correct": 0,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.aafp.org/pubs/afp/issues/2000/0415/p2437.html/1000#treatment-of-postherpetic-neuralgia",
+    "rationale": "Tricyclic antidepressants (e.g., amitriptyline, nortriptyline) are commonly used to treat postherpetic neuralgia, as they help modulate pain by affecting neurotransmitter pathways. SSRIs are primarily used for depression and anxiety. Benzodiazepines are used for anxiety and insomnia. Atypical antidepressants may have limited use in treating pain but are not first-line treatments for postherpetic neuralgia.",
+    "Age Group": "Older Adult (26-65)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "Which of the following medications is the first choice to treat an 87-year-old male with insomnia?",
+    "answers": [
+      "Diazepam",
+      "Zolpidem",
+      "Melatonin",
+      "Lorazepam"
+    ],
+    "correct": 2,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.uspharmacist.com/article/assisting-seniors-with-insomnia-a-comprehensive-approach",
+    "rationale": "For an elderly patient, melatonin is a safer choice for treating insomnia because it helps regulate the sleep-wake cycle with minimal side effects and a lower risk of dependence. Older adults are more sensitive to medications that affect cognition and balance, so safer alternatives should be considered first. The other options - which are included in the Beers Criteria due to their risks of cognitive impairment, falls, or dependence in elderly patients - should only be considered after milder treatments have failed.",
+    "Age Group": "Elderly (65+)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "Which pain medication should the nurse practitioner prescribe to a 10-year-old patient with an ulna fracture?",
+    "answers": [
+      "Topical capsaicin cream",
+      "Percocet",
+      "Aspirin",
+      "Regular strength acetaminophen"
+    ],
+    "correct": 3,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.healthychildren.org/English/safety-prevention/at-home/medication-safety/Pages/Acetaminophen-for-Fever-and-Pain.aspx",
+    "rationale": "For a 10-year-old with an ulna fracture, regular strength acetaminophen is a safe and effective option for managing mild to moderate pain. It is commonly used in pediatric patients because it has minimal side effects and is well-tolerated. Percocet contains oxycodone, a narcotic, and is generally avoided in children unless absolutely necessary due to the risk of side effects and dependence. Aspirin is not recommended for children due to the risk of Reye’s syndrome, a rare but serious condition associated with aspirin use in pediatric patients.",
+    "Age Group": "Child (6-12)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "Your patient comes in for a follow-up assessment after having had his antipsychotic prescription increased. All of the following symptoms indicate that the patient is experiencing neuroleptic malignant syndrome except:",
+    "answers": [
+      "Headache",
+      "Muscle rigidity",
+      "Tremors",
+      "Fever"
+    ],
+    "correct": 0,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://my.clevelandclinic.org/health/diseases/22703-neuroleptic-malignant-syndrome",
+    "rationale": "Neuroleptic malignant syndrome (NMS) is a rare but life-threatening reaction to antipsychotic medications. Key symptoms include muscle rigidity, tremors, fever, altered mental status, and autonomic instability (e.g., blood pressure fluctuations). Headache is not a typical symptom of NMS.",
+    "Age Group": "Older Adult and Elderly",
+    "Pharmacology?": "FALSE"
+  },
+  {
+    "prompt": "A healthy 5-year-old boy comes in with itchy, painful clusters of pustules around his nose and mouth. On assessment, the nurse practitioner notes honey-colored crusts with a reddened, irritated base. How should the nurse practitioner treat this condition first?",
+    "answers": [
+      "Hydrocortisone cream",
+      "Mupirocin ointment",
+      "A topical azole antifungal",
+      "Sulfadiazine cream"
+    ],
+    "correct": 1,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.cedars-sinai.org/health-library/diseases-and-conditions---pediatrics/i/impetigo-in-children.html",
+    "rationale": "The description of honey-colored crusts with a reddened base around the nose and mouth is classic for impetigo, a common superficial bacterial skin infection in children caused by Staphylococcus aureus or Streptococcus pyogenes. Mupirocin ointment is the first-line topical antibiotic treatment for impetigo and is highly effective in treating localized infections. Hydrocortisone cream is a steroid used for inflammatory skin conditions. A topical azole antifungal treats fungal infections. Sulfadiazine cream is used for burns and wound care.",
+    "Age Group": "Preschool (3-5)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "Patients with severe sulfa allergies may safely be prescribed which of the following?",
+    "answers": [
+      "Furosemide",
+      "Hydrochlorothiazide",
+      "Spironolactone",
+      "Protease inhibitors such as Saquinavir"
+    ],
+    "correct": 2,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://core.ac.uk/download/pdf/62759609.pdf",
+    "rationale": "Spironolactone, a potassium-sparing diuretic, is safe to prescribe to patients with sulfa allergies because it does not contain a sulfonamide group, which is responsible for allergic reactions in sulfa-sensitive individuals. Furosemide and hydrochlorothiazide are sulfonamide-based diuretics and can trigger allergic reactions in patients with sulfa allergies. Protease inhibitors such as Saquinavir may contain sulfonamide, so caution is advised in patients with severe sulfa allergies.",
+    "Age Group": "Older Adult and Elderly",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "What should be the first drug option for treating depression symptoms?",
+    "answers": [
+      "SSRIs",
+      "Benzodiazepines",
+      "Tricyclic antidepressants",
+      "Antipsychotics"
+    ],
+    "correct": 0,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://my.clevelandclinic.org/health/treatments/25146-tricyclic-antidepressants",
+    "rationale": "Selective serotonin reuptake inhibitors (SSRIs), such as fluoxetine, sertraline, and paroxetine, are the first-line treatment for depression due to their efficacy and favorable side effect profile compared to other classes. SSRIs work by increasing serotonin levels in the brain, which helps improve mood and reduce depression symptoms.<ul><li>Benzodiazepines are primarily used for anxiety</li><li>Tricyclic antidepressants can be effective but have more side effects, making them a second-line option after SSRIs.</li><li>Antipsychotics (are used for psychotic disorders and are not first-line treatments for depression unless psychotic features are present.</li></ul>",
+    "Age Group": "Older Adult and Elderly",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "An elderly patient recently diagnosed with streptococcus pharyngitis was treated with 500 mg Penicillin V BID for 10 days. At the follow-up visit, the nurse practitioner notes an increase in erythema, tonsillar exudate, and a fever of 100.2°F. What should the nurse practitioner do next?",
+    "answers": [
+      "Repeat the throat culture and sensitivity (C&S)",
+      "Prescribe a five-day course of azithromycin",
+      "Refer the patient to an ENT",
+      "Prescribe a second, stronger course of Penicillin"
+    ],
+    "correct": 0,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://my.clevelandclinic.org/health/diagnostics/24533-throat-culture",
+    "rationale": "Given the patient’s persistent or worsening symptoms after completing the initial antibiotic course, it is important to repeat the throat culture and sensitivity to confirm the presence of Streptococcus and assess for potential antibiotic resistance or a different causative organism. This will help guide appropriate treatment. Azithromycin may be prescribed for penicillin-resistant strep, but confirming resistance with a repeat culture is essential before changing treatment. Referral to an ENT may be needed if the condition persists or if there is concern for complications like abscess formation, but it is not the immediate next step. Prescribing a second course of penicillin without confirming sensitivity may be ineffective if resistance or another pathogen is involved.",
+    "Age Group": "Elderly (65+)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "What is the virus that causes roseola infantum?",
+    "answers": [
+      "Human herpesvirus 6",
+      "Varicella zoster",
+      "Parvovirus B16",
+      "Coxsackie virus"
+    ],
+    "correct": 0,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.mayoclinic.org/diseases-conditions/roseola/symptoms-causes/syc-20377283#causes",
+    "rationale": "Human herpesvirus 6 (HHV-6) is the virus responsible for causing roseola infantum, a common viral infection in infants and young children. It typically presents with a high fever followed by a rash once the fever subsides. Varicella zoster causes chickenpox and shingles. Parvovirus B19 causes fifth disease (erythema infectiosum). Coxsackie virus causes hand, foot, and mouth disease.",
+    "Age Group": "Child (6-12)",
+    "Pharmacology?": "FALSE"
+  },
+  {
+    "prompt": "What is the virus that causes chickenpox?",
+    "answers": [
+      "Epstein-Barr virus",
+      "Coxsackie virus",
+      "Human herpesvirus 6",
+      "Varicella zoster"
+    ],
+    "correct": 3,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.mayoclinic.org/diseases-conditions/chickenpox/symptoms-causes/syc-20351282",
+    "rationale": "Varicella zoster virus (VZV) is responsible for chickenpox, a highly contagious disease characterized by an itchy rash and red spots or blisters. It can also cause shingles later in life when the virus reactivates. Epstein-Barr virus causes mononucleosis. Coxsackie virus causes hand, foot, and mouth disease. Human herpesvirus 6 causes roseola infantum.",
+    "Age Group": "Child (6-12)",
+    "Pharmacology?": "FALSE"
+  },
+  {
+    "prompt": "What is the virus that causes hand, foot, and mouth disease in children?",
+    "answers": [
+      "Epstein-Barr virus",
+      "Coxsackie virus",
+      "Varicella zoster",
+      "Parvovirus B19"
+    ],
+    "correct": 1,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.mayoclinic.org/diseases-conditions/hand-foot-and-mouth-disease/symptoms-causes/syc-20353035#causes",
+    "rationale": "Coxsackie virus, particularly Coxsackievirus A16, is the most common cause of hand, foot, and mouth disease (HFMD) in children. This viral illness is characterized by fever, sores in the mouth, and a rash on the hands and feet. Epstein-Barr virus causes mononucleosis. Varicella zoster causes chickenpox. Parvovirus B19 causes fifth disease (erythema infectiosum).",
+    "Age Group": "Child (6-12)",
+    "Pharmacology?": "FALSE"
+  },
+  {
+    "prompt": "What is the virus that causes fifth disease in children?",
+    "answers": [
+      "Epstein-Barr virus",
+      "Coxsackie virus",
+      "Parvovirus B19",
+      "Human herpesvirus 6"
+    ],
+    "correct": 2,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.mayoclinic.org/diseases-conditions/parvovirus-infection/symptoms-causes/syc-20376085#causes",
+    "rationale": "Parvovirus B19 causes fifth disease (erythema infectiosum) in children, which typically presents with a “slapped cheek” rash on the face, followed by a lacy rash on the body. Epstein-Barr virus causes mononucleosis. Coxsackie virus causes hand, foot, and mouth disease. Human herpesvirus 6 causes roseola infantum.",
+    "Age Group": "Child (6-12)",
+    "Pharmacology?": "FALSE"
+  },
+  {
+    "prompt": "What is the cause of scarlet fever in children?",
+    "answers": [
+      "Epstein-Barr virus",
+      "Streptococcus pyogenes",
+      "Coxsackie virus",
+      "Varicella zoster virus"
+    ],
+    "correct": 1,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.mayoclinic.org/diseases-conditions/scarlet-fever/symptoms-causes/syc-20377406#causes",
+    "rationale": "Scarlet fever is caused by the bacterium Streptococcus pyogenes (group A streptococcus), which also causes strep throat. It is characterized by a red rash, sore throat, and fever. The rash typically feels like sandpaper and often accompanies strep throat. Epstein-Barr virus causes mononucleosis. Coxsackie virus causes hand, foot, and mouth disease. Varicella zoster virus causes chickenpox.",
+    "Age Group": "Child (6-12)",
+    "Pharmacology?": "FALSE"
+  },
+  {
+    "prompt": "An 8-year-old girl presents with fever and polyarthralgia. A positive rapid antigen test confirms a streptococcal infection. What could help the nurse practitioner make a differential diagnosis of acute rheumatic fever using the Jones criteria?",
+    "answers": [
+      "Elevated ESR",
+      "Rash on the face",
+      "Chorea",
+      "Sore throat"
+    ],
+    "correct": 2,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.cdc.gov/group-a-strep/hcp/clinical-guidance/diagnosing-acute-rheumatic-fever.html#cdc_generic_section_2-jones-criteria",
+    "rationale": "Chorea is one of the major criteria in the Jones criteria for diagnosing acute rheumatic fever (ARF). It involves involuntary, irregular movements and is strongly associated with ARF. If present, it would help confirm the diagnosis in conjunction with other major or minor criteria. Elevated ESR is a minor criterion and helps support the diagnosis but is not enough by itself. Rash on the face is not typically associated with ARF Sore throat could indicate a preceding streptococcal infection but is not part of the diagnostic criteria for ARF.",
+    "Age Group": "Child (6-12)",
+    "Pharmacology?": "FALSE"
+  },
+  {
+    "prompt": "Which treatment is most appropriate for a child diagnosed with acute rheumatic fever?",
+    "answers": [
+      "Erythromycin",
+      "Doxycycline",
+      "Clindamycin",
+      "Penicillin"
+    ],
+    "correct": 3,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.mayoclinic.org/diseases-conditions/rheumatic-fever/diagnosis-treatment/drc-20354594",
+    "rationale": "Penicillin is the first-line treatment for acute rheumatic fever (ARF) to eradicate the group A streptococcal infection that triggered the condition. Long-term penicillin prophylaxis may also be indicated to prevent recurrence. Erythromycin may be used in patients allergic to penicillin but is not the first-line option. Doxycycline is not used for ARF. Clindamycin can be used for streptococcal infections but is not first-line for ARF when penicillin is tolerated.",
+    "Age Group": "Child (6-12)",
+    "Pharmacology?": "TRUE"
+  },
+  {
+    "prompt": "A pediatric patient presents with cough, coryza, conjunctivitis, and small white spots inside the cheeks. Which viral exanthem is the patient most likely suffering from?",
+    "answers": [
+      "Fifth disease",
+      "Sixth disease",
+      "Rubella",
+      "Rubeola"
+    ],
+    "correct": 3,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.cdc.gov/measles/signs-symptoms/index.html",
+    "rationale": "The described symptoms—cough, coryza (runny nose), conjunctivitis, and small white spots inside the cheeks (known as Koplik spots)—are classic signs of rubeola (measles). These are early symptoms of measles, which typically present before the characteristic rash appears. Fifth disease presents with a “slapped cheek” rash. Sixth disease, also known as roseola, involves high fever followed by a rash. Rubella typically presents with a milder rash and lymphadenopathy but does not include Koplik spots.",
+    "Age Group": "Child (6-12)",
+    "Pharmacology?": "FALSE"
+  },
+  {
+    "prompt": "Which is the correct statement?",
+    "answers": [
+      "Genu-varum is normal in toddlers and usually resolves by age 2.",
+      "Genu-valgum is normal in toddlers and usually resolves by age 2.",
+      "Genu-valgum is more severe than genu-varum.",
+      "Babies are born with genu-valgum due to cramped quarters in the uterus."
+    ],
+    "correct": 0,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.merckmanuals.com/professional/pediatrics/congenital-musculoskeletal-abnormalities/genu-varum-bowlegs-and-genu-valgum-knock-knees",
+    "rationale": "Genu-varum (bow-leggedness) is normal in toddlers and typically resolves by age 2. As children grow, the alignment of their legs usually straightens.<ul><li>Genu-valgum, knock-knees, typically appears around ages 3-4 and may resolve by ages 6-7.</li><li>Genu-valgum is less severe than genu-varum.</li><li>Babies are not born with genu-valgum; rather, bow-leggedness (genu-varum) is common in infants due to fetal positioning.</li></ul>",
+    "Age Group": "Child (6-12)",
+    "Pharmacology?": "FALSE"
+  },
+  {
+    "prompt": "This infection is very common in children in the United States, usually mild, spreads by touch, and signs include small, raised bumps that are firm, sometimes with a dip in the center, and appear anywhere on the body.",
+    "answers": [
+      "Molluscum contagiosum",
+      "Basal cell carcinoma",
+      "Bullous impetigo",
+      "Varicella"
+    ],
+    "correct": 0,
+    "userChoice": -1,
+    "bookmarked": 0,
+    "source": "https://www.cdc.gov/molluscum-contagiosum/about/index.html",
+    "rationale": "Molluscum contagiosum is a common, mild viral infection in children, caused by the poxvirus. It spreads through direct contact and presents with small, firm, raised bumps that may have a central dimple (umbilication). It can appear anywhere on the body and often resolves without treatment.<br>• Basal cell carcinoma (b) is a type of skin cancer and not common in children.<br>• Bullous impetigo (c) is a bacterial infection that causes fluid-filled blisters aound the nose and mouth. Over about a week, the sores burst and develop honey-colored crusts.<br>• Varicella (d), characterized by painful itchy vesicular rash.",
+    "Age Group": "Child (6-12)",
+    "Pharmacology?": "FALSE"
   }
 ];
