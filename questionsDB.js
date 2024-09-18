@@ -28,7 +28,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.ncbi.nlm.nih.gov/books/NBK534296",
-    "rationale": "Grey-Turner sign is characterized by bruising or a bluish discoloration on the flanks (the sides of the body between the ribs and the hips). It indicates retroperitoneal hemorrhage, which can occur in conditions such as acute pancreatitis, trauma, or ruptured ectopic pregnancy. This sign suggests severe internal bleeding and requires prompt medical evaluation and intervention.<ul><li>Murphy&rsquo;s is for cholelithiasis.</li><li>Appley&rsquo;s is for meniscus.</li><li>Battle indicates skull fracture.</li></ul>",
+    "rationale": "Grey-Turner sign is characterized by bruising or a bluish discoloration on the flanks (the sides of the body between the ribs and the hips). It indicates retroperitoneal hemorrhage, which can occur in conditions such as acute pancreatitis, trauma, or ruptured ectopic pregnancy. This sign suggests severe internal bleeding and requires prompt medical evaluation and intervention.<br>• Murphy&rsquo;s is for cholelithiasis.<br>• Appley&rsquo;s is for meniscus.<br>• Battle indicates skull fracture.",
     "Age Group": "Older Adult and Elderly",
     "Pharmacology?": "FALSE"
   },
@@ -44,7 +44,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.hematology.org/education/patients/anemia",
-    "rationale": "In patients with alcohol dependence, folate deficiency is the most common cause of macrocytic anemia. Alcohol interferes with folate absorption and metabolism, leading to decreased levels of this essential vitamin, which is required for proper DNA synthesis and red blood cell formation. The clinical presentation of fatigue, shortness of breath, and specific findings such as pale conjunctiva and a smooth tongue (glossitis) further support a diagnosis of folate deficiency anemia.<ul><li>A) Iron deficiency typically causes microcytic anemia, not macrocytic, and is less likely in this scenario without evidence of bleeding or malnutrition.</li><li>C) Aplastic anemia, which involves the failure of bone marrow to produce blood cells, is a possible but less likely diagnosis without evidence of pancytopenia (reduction in red and white blood cells and platelets).</li><li>D) Sickle cell disease is a genetic disorder causing abnormally shaped red blood cells and is not associated with alcohol use or macrocytosis.</li></ul>",
+    "rationale": "In patients with alcohol dependence, folate deficiency is the most common cause of macrocytic anemia. Alcohol interferes with folate absorption and metabolism, leading to decreased levels of this essential vitamin, which is required for proper DNA synthesis and red blood cell formation. The clinical presentation of fatigue, shortness of breath, and specific findings such as pale conjunctiva and a smooth tongue (glossitis) further support a diagnosis of folate deficiency anemia.<br>• A) Iron deficiency typically causes microcytic anemia, not macrocytic, and is less likely in this scenario without evidence of bleeding or malnutrition.<br>• C) Aplastic anemia, which involves the failure of bone marrow to produce blood cells, is a possible but less likely diagnosis without evidence of pancytopenia (reduction in red and white blood cells and platelets).<br>• D) Sickle cell disease is a genetic disorder causing abnormally shaped red blood cells and is not associated with alcohol use or macrocytosis.",
     "Age Group": "Older Adult (26-65)",
     "Pharmacology?": "FALSE"
   },
@@ -76,7 +76,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.cancer.org/cancer/types/testicular-cancer/about/key-statistics.html",
-    "rationale": "Testicular cancer is the most common neoplasm in men aged 20-35 due to the higher prevalence of germ cell tumors within this age group. These tumors, which originate from the cells responsible for producing sperm, tend to develop during early adulthood. The exact cause is not well understood, but factors such as genetic predisposition, undescended testicles (cryptorchidism), and certain inherited conditions increase the risk. Early detection and treatment are crucial for favorable outcomes, as testicular cancer is highly responsive to therapy, especially when diagnosed early.<ul><li>A) An <strong>ultrasound</strong> is the preferred initial imaging method for diagnosing testicular cancer due to its specificity, safety, and accessibility.</li><li>C) Patients typically discover a painless testicular <strong>nodule</strong>.</li><li>D) The 5-year survival rate for most testicular cancer after orchiectomy and therapy is <strong>more than 90%</strong>.</li></ul>",
+    "rationale": "Testicular cancer is the most common neoplasm in men aged 20-35 due to the higher prevalence of germ cell tumors within this age group. These tumors, which originate from the cells responsible for producing sperm, tend to develop during early adulthood. The exact cause is not well understood, but factors such as genetic predisposition, undescended testicles (cryptorchidism), and certain inherited conditions increase the risk. Early detection and treatment are crucial for favorable outcomes, as testicular cancer is highly responsive to therapy, especially when diagnosed early.<br>• A) An <strong>ultrasound</strong> is the preferred initial imaging method for diagnosing testicular cancer due to its specificity, safety, and accessibility.<br>• C) Patients typically discover a painless testicular <strong>nodule</strong>.<br>• D) The 5-year survival rate for most testicular cancer after orchiectomy and therapy is <strong>more than 90%</strong>.",
     "Age Group": "Adult (19-26)",
     "Pharmacology?": "FALSE"
   },
@@ -540,7 +540,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.aad.org/public/diseases/skin-cancer/find/at-risk/abcdes",
-    "rationale": "<ol style=\"list-style-type: upper-alpha;\"><li>Asymmetry: One half of the spot is unlike the other half.</li><li>Border: The spot has an irregular, scalloped, or poorly defined border.</li><li>Color: The spot has varying colors from one area to the next, such as shades of tan, brown or black, or areas of white, red, or blue.</li><li>Diameter: While melanomas are usually greater than 6 millimeters, or about the size of a pencil eraser, when diagnosed, they can be smaller.</li><li>Evolving: The spot looks different from the rest or is changing in size, shape, or color.</li></ol>",
+    "rationale": "<ol style=\"list-style-type: upper-alpha;\"><br>• Asymmetry: One half of the spot is unlike the other half.<br>• Border: The spot has an irregular, scalloped, or poorly defined border.<br>• Color: The spot has varying colors from one area to the next, such as shades of tan, brown or black, or areas of white, red, or blue.<br>• Diameter: While melanomas are usually greater than 6 millimeters, or about the size of a pencil eraser, when diagnosed, they can be smaller.<br>• Evolving: The spot looks different from the rest or is changing in size, shape, or color.</ol>",
     "Age Group": "Older Adult and Elderly",
     "Pharmacology?": "FALSE"
   },
@@ -1564,7 +1564,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-age.html",
-    "rationale": "<p>For a 55-year-old female, the recommended vaccinations include:</p>\n<ul>\n<li><strong>Td (Tetanus and diphtheria booster):</strong> or TDAP booster every 10 years.</li>\n<li><strong>Shingrix:</strong> A two-dose vaccine for the prevention of shingles, for adults 50 years and older.</li>\n<li><strong>Influenza vaccine:</strong> Annually for all adults, particularly important as age increases.</li>\n</ul>\n<p>HPV vaccination is generally recommended for adults up to age 26, or up to 45 in certain cases. PCV15 (pneumococcal conjugate vaccine) is recommended for adults 65 years and older or those with specific risk factors.</p>",
+    "rationale": "<p>For a 55-year-old female, the recommended vaccinations include:</p>\n\n<br>• <strong>Td (Tetanus and diphtheria booster):</strong> or TDAP booster every 10 years.\n<br>• <strong>Shingrix:</strong> A two-dose vaccine for the prevention of shingles, for adults 50 years and older.\n<br>• <strong>Influenza vaccine:</strong> Annually for all adults, particularly important as age increases.\n\n<p>HPV vaccination is generally recommended for adults up to age 26, or up to 45 in certain cases. PCV15 (pneumococcal conjugate vaccine) is recommended for adults 65 years and older or those with specific risk factors.</p>",
     "Age Group": "Older Adult and Elderly",
     "Pharmacology?": "FALSE"
   },
@@ -1756,7 +1756,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.jaad.org/article/S0190-9622(97)70252-4/abstract",
-    "rationale": "This sign is characteristic of psoriasis and helps in differentiating it from other skin conditions.<ul><li><strong>Koebner phenomenon</strong> refers to the appearance of new skin lesions at sites of trauma or injury in patients with psoriasis and other skin diseases.</li><li><strong>Herald patch</strong> is the initial lesion seen in pityriasis rosea, not psoriasis.</li><li><strong>Wickham&#39;s striae</strong> are fine, white lines seen on the surface of lichen planus lesions, not typically associated with psoriasis.</li></ul>",
+    "rationale": "This sign is characteristic of psoriasis and helps in differentiating it from other skin conditions.<br>• <strong>Koebner phenomenon</strong> refers to the appearance of new skin lesions at sites of trauma or injury in patients with psoriasis and other skin diseases.<br>• <strong>Herald patch</strong> is the initial lesion seen in pityriasis rosea, not psoriasis.<br>• <strong>Wickham&#39;s striae</strong> are fine, white lines seen on the surface of lichen planus lesions, not typically associated with psoriasis.",
     "Age Group": "Older Adult and Elderly",
     "Pharmacology?": "FALSE"
   },
@@ -1788,7 +1788,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://my.clevelandclinic.org/health/diseases/22449-tinea-capitis",
-    "rationale": "Metronidazole is an antibiotic and antiprotozoal medication, and it is not used to treat fungal infections such as tinea capitis.<ul><li><strong>Selenium shampoo</strong> can be used as an adjunct therapy for tinea capitis to help reduce fungal spores on the scalp.</li><li><strong>Oral terbinafine</strong> and <strong>griseofulvin</strong> are effective systemic antifungal agents commonly prescribed to treat tinea capitis, as the infection involves the hair shafts, making topical treatments insufficient.</li></ul>",
+    "rationale": "Metronidazole is an antibiotic and antiprotozoal medication, and it is not used to treat fungal infections such as tinea capitis.<br>• <strong>Selenium shampoo</strong> can be used as an adjunct therapy for tinea capitis to help reduce fungal spores on the scalp.<br>• <strong>Oral terbinafine</strong> and <strong>griseofulvin</strong> are effective systemic antifungal agents commonly prescribed to treat tinea capitis, as the infection involves the hair shafts, making topical treatments insufficient.",
     "Age Group": "Older Adult and Elderly",
     "Pharmacology?": "TRUE"
   },
@@ -1820,7 +1820,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.ncbi.nlm.nih.gov/books/NBK431102/",
-    "rationale": "Colchicine is appropriate to prescribe as it reduces the inflammation and pain that follow <strong>acute gout flares</strong>.<ul><li><strong>Allopurinol</strong> is used for long-term management to reduce uric acid levels but should not be started or increased during an acute flare, as it can exacerbate the symptoms.</li><li><strong>Acetaminophen</strong> may provide pain relief but does not address the underlying inflammation of a gout flare.</li><li><strong>Methimazole</strong> is unrelated to gout treatment and is used to treat hyperthyroidism.</li></ul>",
+    "rationale": "Colchicine is appropriate to prescribe as it reduces the inflammation and pain that follow <strong>acute gout flares</strong>.<br>• <strong>Allopurinol</strong> is used for long-term management to reduce uric acid levels but should not be started or increased during an acute flare, as it can exacerbate the symptoms.<br>• <strong>Acetaminophen</strong> may provide pain relief but does not address the underlying inflammation of a gout flare.<br>• <strong>Methimazole</strong> is unrelated to gout treatment and is used to treat hyperthyroidism.",
     "Age Group": "Elderly (65+)",
     "Pharmacology?": "TRUE"
   },
@@ -1852,7 +1852,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://diabetes.org/about-diabetes/diagnosis",
-    "rationale": "A diagnosis of type 2 diabetes mellitus can be made based on the following criteria:<ol><li>Fasting blood glucose ≥ 126 mg/dL </li><li>A1C ≥ 6.5%</li><li>2-hour plasma glucose ≥ 200 mg/dL during an oral glucose tolerance test</li><li><strong>Random glucose ≥ 200 mg/dL</strong> with symptoms of hyperglycemia (such as increased thirst, polyuria, etc.)</li></ol>The other options indicate prediabetes.",
+    "rationale": "A diagnosis of type 2 diabetes mellitus can be made based on the following criteria:<ol><br>• Fasting blood glucose ≥ 126 mg/dL <br>• A1C ≥ 6.5%<br>• 2-hour plasma glucose ≥ 200 mg/dL during an oral glucose tolerance test<br>• <strong>Random glucose ≥ 200 mg/dL</strong> with symptoms of hyperglycemia (such as increased thirst, polyuria, etc.)</ol>The other options indicate prediabetes.",
     "Age Group": "Older Adult and Elderly",
     "Pharmacology?": "FALSE"
   },
@@ -1884,7 +1884,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.thyroid.org/thyroid-function-tests/",
-    "rationale": "Hyperthyroidism shows up on lab tests as decreased TSH (due to negative feedback) and elevated T3 (and often T4). TSH is typically low because the pituitary gland reduces its production of TSH in response to high levels of circulating thyroid hormones.<ul><li><strong>Elevated TSH, elevated T3</strong> would suggest secondary hyperthyroidism, which is much less common and involves a pituitary disorder.</li><li><strong>Elevated TSH, decreased T3</strong> indicates hypothyroidism, not hyperthyroidism.</li><li><strong>Decreased TSH, decreased T4</strong> suggests central hypothyroidism or non-thyroidal illness, not hyperthyroidism.</li></ul>",
+    "rationale": "Hyperthyroidism shows up on lab tests as decreased TSH (due to negative feedback) and elevated T3 (and often T4). TSH is typically low because the pituitary gland reduces its production of TSH in response to high levels of circulating thyroid hormones.<br>• <strong>Elevated TSH, elevated T3</strong> would suggest secondary hyperthyroidism, which is much less common and involves a pituitary disorder.<br>• <strong>Elevated TSH, decreased T3</strong> indicates hypothyroidism, not hyperthyroidism.<br>• <strong>Decreased TSH, decreased T4</strong> suggests central hypothyroidism or non-thyroidal illness, not hyperthyroidism.",
     "Age Group": "Older Adult and Elderly",
     "Pharmacology?": "FALSE"
   },
@@ -1916,7 +1916,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.hepb.org/prevention-and-diagnosis/diagnosis/understanding-your-test-results/",
-    "rationale": "The presence of HBsAg (Hepatitis B surface antigen) indicates an active hepatitis B infection. The positive anti-HBc (core antibody) and anti-HB IgM (IgM antibody to hepatitis B core antigen) confirm that the infection is recent or acute, as IgM is the first antibody produced in response to an infection. The negative anti-HBs (surface antibody) indicates that the patient has not yet developed immunity to the virus, which typically occurs after recovery or successful vaccination.<ul><li><strong>Chronic hepatitis B</strong> would show a positive HBsAg and anti-HBc, but anti-HB IgM would typically be negative, indicating a long-term infection.</li><li><strong>Immunity against hepatitis B</strong> would show positive anti-HBs with negative HBsAg and anti-HBc (if immunity is due to vaccination) or positive anti-HBc if due to natural infection.</li><li><strong>Recovered hepatitis B</strong> would show positive anti-HBs and anti-HBc, with negative HBsAg.</li></ul>",
+    "rationale": "The presence of HBsAg (Hepatitis B surface antigen) indicates an active hepatitis B infection. The positive anti-HBc (core antibody) and anti-HB IgM (IgM antibody to hepatitis B core antigen) confirm that the infection is recent or acute, as IgM is the first antibody produced in response to an infection. The negative anti-HBs (surface antibody) indicates that the patient has not yet developed immunity to the virus, which typically occurs after recovery or successful vaccination.<br>• <strong>Chronic hepatitis B</strong> would show a positive HBsAg and anti-HBc, but anti-HB IgM would typically be negative, indicating a long-term infection.<br>• <strong>Immunity against hepatitis B</strong> would show positive anti-HBs with negative HBsAg and anti-HBc (if immunity is due to vaccination) or positive anti-HBc if due to natural infection.<br>• <strong>Recovered hepatitis B</strong> would show positive anti-HBs and anti-HBc, with negative HBsAg.",
     "Age Group": "Older Adult and Elderly",
     "Pharmacology?": "FALSE"
   },
@@ -1932,7 +1932,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.niams.nih.gov/health-topics/bone-mineral-density-tests-what-numbers-mean",
-    "rationale": "A T-score of -2.5 or lower on a DEXA scan is diagnostic for osteoporosis, indicating a significant decrease in bone density and a higher risk of fractures.<ul><li>A <strong>T-score of -1.0 or higher</strong> is considered normal bone density.</li><li>A <strong>T-score between -1.0 and -2.5</strong> indicates osteopenia, which is low bone density but not as severe as osteoporosis.</li><li><strong>Z-scores</strong> are used to compare bone density to what is expected in someone of the same age and body size.</li></ul>",
+    "rationale": "A T-score of -2.5 or lower on a DEXA scan is diagnostic for osteoporosis, indicating a significant decrease in bone density and a higher risk of fractures.<br>• A <strong>T-score of -1.0 or higher</strong> is considered normal bone density.<br>• A <strong>T-score between -1.0 and -2.5</strong> indicates osteopenia, which is low bone density but not as severe as osteoporosis.<br>• <strong>Z-scores</strong> are used to compare bone density to what is expected in someone of the same age and body size.",
     "Age Group": "Older Adult and Elderly",
     "Pharmacology?": "FALSE"
   },
@@ -1948,7 +1948,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://radiology.ucsf.edu/blog/identifying-risk-factors-early-osteoporosis-screening",
-    "rationale": "Risk factors for osteoporosis include family history, smoking, excessive exercise, excessive alcohol use, long-term corticosteroid use, hyperthyroidism, and extremely low BMI.<ul><li>Short-term corticosteroid use generally poses a lower risk compared to long-term use, which is a known risk factor for osteoporosis.</li><li>Hypothyroidism does not directly lead to osteoporosis; in fact, hyperthyroidism is more commonly associated with increased bone loss.</li><li>High-fat diet is not directly linked to osteoporosis risk, though poor overall nutrition can contribute to weaker bones.</li></ul>",
+    "rationale": "Risk factors for osteoporosis include family history, smoking, excessive exercise, excessive alcohol use, long-term corticosteroid use, hyperthyroidism, and extremely low BMI.<br>• Short-term corticosteroid use generally poses a lower risk compared to long-term use, which is a known risk factor for osteoporosis.<br>• Hypothyroidism does not directly lead to osteoporosis; in fact, hyperthyroidism is more commonly associated with increased bone loss.<br>• High-fat diet is not directly linked to osteoporosis risk, though poor overall nutrition can contribute to weaker bones.",
     "Age Group": "Older Adult and Elderly",
     "Pharmacology?": "FALSE"
   },
@@ -1980,7 +1980,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.aafp.org/pubs/afp/issues/2002/0901/p797.html",
-    "rationale": "These symptoms suggest <em>tension headaches</em>. These are commonly managed with over-the-counter analgesics such as acetaminophen or nonsteroidal anti-inflammatory drugs (NSAIDs), which are effective in relieving the associated pain.<ul><li>Prophylactic triptans are typically used for preventing migraines, not tension headaches.</li><li>Inhalation of 100% oxygen is a treatment for cluster headaches, which are characterized by severe, unilateral headaches with autonomic symptoms.</li><li>Prednisone is not typically used for treating tension headaches and is more appropriate for conditions with significant inflammation or autoimmune components.</li></ul>",
+    "rationale": "These symptoms suggest <em>tension headaches</em>. These are commonly managed with over-the-counter analgesics such as acetaminophen or nonsteroidal anti-inflammatory drugs (NSAIDs), which are effective in relieving the associated pain.<br>• Prophylactic triptans are typically used for preventing migraines, not tension headaches.<br>• Inhalation of 100% oxygen is a treatment for cluster headaches, which are characterized by severe, unilateral headaches with autonomic symptoms.<br>• Prednisone is not typically used for treating tension headaches and is more appropriate for conditions with significant inflammation or autoimmune components.",
     "Age Group": "Older Adult and Elderly",
     "Pharmacology?": "TRUE"
   },
@@ -1996,7 +1996,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.utmb.edu/pedi_ed/CoreV2/CardiologyPart1/CardiologyPart12.html#:~:text=The%20second%20heart%20sound%20(S2,the%20pulmonary%20valve%20(P2).",
-    "rationale": "The S2 heart sound marks the end of systole and the beginning of diastole. This sound is typically heard as two components: A2 (aortic valve closure) and P2 (pulmonic valve closure).<ul><li><strong>S1</strong> represents the closure of the mitral and tricuspid valves, marking the beginning of systole.</li><li><strong>S3</strong> is associated with early diastolic filling and can indicate heart failure or volume overload.</li><li><strong>S4</strong> is associated with late diastolic filling due to atrial contraction, often seen in conditions with reduced ventricular compliance, such as left ventricular hypertrophy or ischemic heart disease.</li></ul>",
+    "rationale": "The S2 heart sound marks the end of systole and the beginning of diastole. This sound is typically heard as two components: A2 (aortic valve closure) and P2 (pulmonic valve closure).<br>• <strong>S1</strong> represents the closure of the mitral and tricuspid valves, marking the beginning of systole.<br>• <strong>S3</strong> is associated with early diastolic filling and can indicate heart failure or volume overload.<br>• <strong>S4</strong> is associated with late diastolic filling due to atrial contraction, often seen in conditions with reduced ventricular compliance, such as left ventricular hypertrophy or ischemic heart disease.",
     "Age Group": "Older Adult and Elderly",
     "Pharmacology?": "FALSE"
   },
@@ -2012,7 +2012,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.mountsinai.org/health-library/supplement/vitamin-b3-niacin",
-    "rationale": "Flushing--a warm, red, and sometimes itchy sensation on the skin-- is a common side effect of niacin, particularly after starting the medication or increasing the dose. It can be minimized by taking aspirin 30 minutes before the dose or using extended-release formulations.<ul><li><strong>Atorvastatin</strong> and <strong>Rosuvastatin</strong> are statins that primarily reduce LDL cholesterol with less effect on HDL and do not commonly cause flushing.</li><li><strong>Fenofibrate</strong> primarily reduces triglycerides and can moderately increase HDL but does not cause flushing.</li></ul>",
+    "rationale": "Flushing--a warm, red, and sometimes itchy sensation on the skin-- is a common side effect of niacin, particularly after starting the medication or increasing the dose. It can be minimized by taking aspirin 30 minutes before the dose or using extended-release formulations.<br>• <strong>Atorvastatin</strong> and <strong>Rosuvastatin</strong> are statins that primarily reduce LDL cholesterol with less effect on HDL and do not commonly cause flushing.<br>• <strong>Fenofibrate</strong> primarily reduces triglycerides and can moderately increase HDL but does not cause flushing.",
     "Age Group": "Older Adult and Elderly",
     "Pharmacology?": "TRUE"
   },
@@ -3548,7 +3548,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10922011/#:~:text=terbinafine%20is%20now%20recommended%20as%20first-line%20onychomycosis%20treatment%20by%20the%20British%20Association%20of%20Dermatologists",
-    "rationale": "PO terbinafine is the first-line treatment for onychomycosis due to its high efficacy in eradicating the fungal infection that affects the nails. It is administered orally because topical treatments generally have poor nail penetration and are less effective in treating this condition.<ul><li>Azelaic acidis used for acne and rosacea, not fungal infections.</li><li>Topical metronidazole is an antibiotic/antiprotozoal, primarily used for rosacea and certain bacterial infections.</li><li>Efinaconazole solution is a topical antifungal but is typically less effective than oral terbinafine for onychomycosis.</li></ul>",
+    "rationale": "PO terbinafine is the first-line treatment for onychomycosis due to its high efficacy in eradicating the fungal infection that affects the nails. It is administered orally because topical treatments generally have poor nail penetration and are less effective in treating this condition.<br>• Azelaic acidis used for acne and rosacea, not fungal infections.<br>• Topical metronidazole is an antibiotic/antiprotozoal, primarily used for rosacea and certain bacterial infections.<br>• Efinaconazole solution is a topical antifungal but is typically less effective than oral terbinafine for onychomycosis.",
     "Age Group": "Older Adult and Elderly",
     "Pharmacology?": "TRUE"
   },
@@ -4284,7 +4284,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.euda.europa.eu/publications/drug-profiles/benzodiazepines_en#:~:text=Different%20benzodiazepines%20vary%20in%20the,lives%20greater%20than%2024%20hours%2C",
-    "rationale": "Triazolam (Halcion) has the shortest half-life among these options, typically 2 to 6 hours, making it effective for short-term use, especially for insomnia.<br><ul><li>Clonazepam (Klonopin) has a longer half-life, approximately 20 to 50 hours.</li><li>Alprazolam (Xanax) has a half-life of 11 to 16 hours.</li><li>Diazepam (Valium) has a much longer half-life, ranging from 20 to 50 hours.</li></ul>",
+    "rationale": "Triazolam (Halcion) has the shortest half-life among these options, typically 2 to 6 hours, making it effective for short-term use, especially for insomnia.<br><br>• Clonazepam (Klonopin) has a longer half-life, approximately 20 to 50 hours.<br>• Alprazolam (Xanax) has a half-life of 11 to 16 hours.<br>• Diazepam (Valium) has a much longer half-life, ranging from 20 to 50 hours.",
     "Age Group": "Older Adult (26-65)",
     "Pharmacology?": "TRUE"
   },
@@ -4396,7 +4396,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://my.clevelandclinic.org/health/treatments/25146-tricyclic-antidepressants",
-    "rationale": "Selective serotonin reuptake inhibitors (SSRIs), such as fluoxetine, sertraline, and paroxetine, are the first-line treatment for depression due to their efficacy and favorable side effect profile compared to other classes. SSRIs work by increasing serotonin levels in the brain, which helps improve mood and reduce depression symptoms.<ul><li>Benzodiazepines are primarily used for anxiety</li><li>Tricyclic antidepressants can be effective but have more side effects, making them a second-line option after SSRIs.</li><li>Antipsychotics (are used for psychotic disorders and are not first-line treatments for depression unless psychotic features are present.</li></ul>",
+    "rationale": "Selective serotonin reuptake inhibitors (SSRIs), such as fluoxetine, sertraline, and paroxetine, are the first-line treatment for depression due to their efficacy and favorable side effect profile compared to other classes. SSRIs work by increasing serotonin levels in the brain, which helps improve mood and reduce depression symptoms.<br>• Benzodiazepines are primarily used for anxiety<br>• Tricyclic antidepressants can be effective but have more side effects, making them a second-line option after SSRIs.<br>• Antipsychotics (are used for psychotic disorders and are not first-line treatments for depression unless psychotic features are present.",
     "Age Group": "Older Adult and Elderly",
     "Pharmacology?": "TRUE"
   },
@@ -4556,7 +4556,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.merckmanuals.com/professional/pediatrics/congenital-musculoskeletal-abnormalities/genu-varum-bowlegs-and-genu-valgum-knock-knees",
-    "rationale": "Genu-varum (bow-leggedness) is normal in toddlers and typically resolves by age 2. As children grow, the alignment of their legs usually straightens.<ul><li>Genu-valgum, knock-knees, typically appears around ages 3-4 and may resolve by ages 6-7.</li><li>Genu-valgum is less severe than genu-varum.</li><li>Babies are not born with genu-valgum; rather, bow-leggedness (genu-varum) is common in infants due to fetal positioning.</li></ul>",
+    "rationale": "Genu-varum (bow-leggedness) is normal in toddlers and typically resolves by age 2. As children grow, the alignment of their legs usually straightens.<br>• Genu-valgum, knock-knees, typically appears around ages 3-4 and may resolve by ages 6-7.<br>• Genu-valgum is less severe than genu-varum.<br>• Babies are not born with genu-valgum; rather, bow-leggedness (genu-varum) is common in infants due to fetal positioning.",
     "Age Group": "Child (6-12)",
     "Pharmacology?": "FALSE"
   },
