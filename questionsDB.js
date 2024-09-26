@@ -44,7 +44,7 @@ let questionList = [
     "userChoice": -1,
     "bookmarked": 0,
     "source": "https://www.hematology.org/education/patients/anemia",
-    "rationale": "In patients with alcohol dependence, folate deficiency is the most common cause of macrocytic anemia. Alcohol interferes with folate absorption and metabolism, leading to decreased levels of this essential vitamin, which is required for proper DNA synthesis and red blood cell formation. The clinical presentation of fatigue, shortness of breath, and specific findings such as pale conjunctiva and a smooth tongue (glossitis) further support a diagnosis of folate deficiency anemia.<br>• A) Iron deficiency typically causes microcytic anemia, not macrocytic, and is less likely in this scenario without evidence of bleeding or malnutrition.<br>• C) Aplastic anemia, which involves the failure of bone marrow to produce blood cells, is a possible but less likely diagnosis without evidence of pancytopenia (reduction in red and white blood cells and platelets).<br>• D) Sickle cell disease is a genetic disorder causing abnormally shaped red blood cells and is not associated with alcohol use or macrocytosis.",
+    "rationale": "In patients with alcohol dependence, folate deficiency is the most common cause of macrocytic anemia. Alcohol interferes with folate absorption and metabolism, leading to decreased levels of this essential vitamin, which is required for proper DNA synthesis and red blood cell formation. The clinical presentation of fatigue, shortness of breath, and specific findings such as pale conjunctiva and a smooth tongue (glossitis) further support a diagnosis of folate deficiency anemia.<br>• B) Iron deficiency typically causes microcytic anemia, not macrocytic, and is less likely in this scenario without evidence of bleeding or malnutrition.<br>• C) Aplastic anemia, which involves the failure of bone marrow to produce blood cells, is a possible but less likely diagnosis without evidence of pancytopenia (reduction in red and white blood cells and platelets).<br>• D) Sickle cell disease is a genetic disorder causing abnormally shaped red blood cells and is not associated with alcohol use or macrocytosis.",
     "Age Group": "Older Adult (26-65)",
     "Pharmacology?": "FALSE"
   },
@@ -123,7 +123,7 @@ let questionList = [
     "correct": 3,
     "userChoice": -1,
     "bookmarked": 0,
-    "source": "https://www.asthma-breathe.com/clinical-care-toolkit/current-guideline-for-asthma/",
+    "source": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8285922/#s0005title",
     "rationale": "The patient should already be on a SABA. If LABA is not enough, the next drug of choice is LAMA and ICS comes after.",
     "Age Group": "Elderly (65+)",
     "Pharmacology?": "TRUE"
